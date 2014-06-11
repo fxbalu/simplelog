@@ -1,6 +1,6 @@
 # Simple Log
 
-![Testing program for Simple Log](http://octodex.github.com/images/yaktocat.png)
+![Testing program for Simple Log](https://raw.githubusercontent.com/fxbalu/simplelog/master/.pictures/test.png)
 
 Simple Log is a C library that allow you to display informations on standard output.
 
