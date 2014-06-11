@@ -18,7 +18,7 @@ output:
 [E] in main (test.c:5) Damnit, something's wrong
 ```
 
-You can use it like the ```printf``` function, with optionnal arguments
+You can use it like the ```printf``` function, with optional arguments
 
 ```c
 logInfo("%d files loaded", n);
